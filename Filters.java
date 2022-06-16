@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.company;
 
 import java.util.List;
 import java.util.Objects;
